@@ -9,3 +9,6 @@ Reference:
 
 https://learn.microsoft.com/en-us/dotnet/api/system.runtime.compilerservices.conditionalweaktable-2?view=net-7.0
 https://github.com/dotnet/BenchmarkDotNet
+
+# Benchmark
+![Screenshot from 2023-01-14 16-15-20](https://user-images.githubusercontent.com/5260715/212482597-45137771-417b-480d-a2dc-39f5073c14f7.png)
