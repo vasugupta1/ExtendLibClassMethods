@@ -1,0 +1,12 @@
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/bin/Release/net6.0/SampleClassLib.deps.json
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/bin/Release/net6.0/SampleClassLib.dll
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/bin/Release/net6.0/SampleClassLib.pdb
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/SampleClassLib.csproj.AssemblyReference.cache
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/SampleClassLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/SampleClassLib.AssemblyInfoInputs.cache
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/SampleClassLib.AssemblyInfo.cs
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/SampleClassLib.csproj.CoreCompileInputs.cache
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/SampleClassLib.dll
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/refint/SampleClassLib.dll
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/SampleClassLib.pdb
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/obj/Release/net6.0/ref/SampleClassLib.dll

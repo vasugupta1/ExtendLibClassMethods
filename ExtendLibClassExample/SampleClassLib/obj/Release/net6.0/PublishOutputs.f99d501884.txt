@@ -1,0 +1,3 @@
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/bin/Release/net6.0/publish/SampleClassLib.dll
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/bin/Release/net6.0/publish/SampleClassLib.deps.json
+/home/vasugupta/Documents/Github/ExtendLibClassExample/ExtendLibClassExample/SampleClassLib/bin/Release/net6.0/publish/SampleClassLib.pdb
